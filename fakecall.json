@@ -2,10 +2,10 @@
     "data" : [
         {
           
-            "network": "xxx",
+            "network": "max",
             
-            "max_ban": "ea05ef53df027b6b",
-            "max_int": "c0fd36736854698e",
+            "max_ban": "9d8f99ff6efae1c8",
+            "max_int": "ad6efda57cf2a99b",
             
             "is_app_key": "154b0d031",
             "is_ban": "DefaultBanner",
@@ -16,8 +16,8 @@
 
             "name": "Mirabel & Bruno",
             "photo": "https://i.postimg.cc/9fqsR1yJ/Bruno-Madrigal-Wallpaper.jpg",
-            "voice": "https://ringy9.github.io/Mirabel-Bruno/voice.mp4",
-            "video": "https://ringy9.github.io/Mirabel-Bruno/video.mp4",
+            "voice": "https://ringy9.github.io/Mirabel-Encanto-DAFO/voice.mp4",
+            "video": "https://ringy9.github.io/Mirabel-Encanto-DAFO/video.mp4",
             "stories": [
                "https://i.postimg.cc/PJhGkZpK/531837046e2c6e686ffe0a8bdae09146.jpg",
 "https://i.postimg.cc/j5yV9v5L/7870320.jpg",
