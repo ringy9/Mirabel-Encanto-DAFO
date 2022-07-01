@@ -1,0 +1,60 @@
+{
+    "data" : [
+        {
+          
+            "network": "xxx",
+            
+            "max_ban": "ea05ef53df027b6b",
+            "max_int": "c0fd36736854698e",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Mirabel & Bruno",
+            "photo": "https://i.postimg.cc/9fqsR1yJ/Bruno-Madrigal-Wallpaper.jpg",
+            "voice": "https://ringy9.github.io/Mirabel-Bruno/voice.mp4",
+            "video": "https://ringy9.github.io/Mirabel-Bruno/video.mp4",
+            "stories": [
+               "https://i.postimg.cc/PJhGkZpK/531837046e2c6e686ffe0a8bdae09146.jpg",
+"https://i.postimg.cc/j5yV9v5L/7870320.jpg",
+"https://i.postimg.cc/8PND88LD/7fa9071dc283d851700e38dc9d7d013b.jpg",
+"https://i.postimg.cc/4y1D4dpG/86431244bc5f9112f33639573b34d6e6.jpg",
+"https://i.postimg.cc/zfbYwqYw/918a17a81a358f5f445c3e782222f52d.jpg",
+"https://i.postimg.cc/MK5wqsYB/92a955ee6d101dcac969101171cac4fd.jpg",
+"https://i.postimg.cc/7ZLk6gBW/afriyel-asset.jpg",
+"https://i.postimg.cc/N03qpZQ3/b8d2e8b2044983cc03ea01afc5ca52de.jpg",
+"https://i.postimg.cc/bwFj2sWN/bf08c802d58ad9895e4f4f4610b0e9a4.jpg",
+"https://i.postimg.cc/9fqsR1yJ/Bruno-Madrigal-Wallpaper.jpg",
+"https://i.postimg.cc/dt4bzhqm/c3d14c00487828d545975f2281eba231.jpg",
+"https://i.postimg.cc/WbNRWGP1/d63719cc2659b4167c0de0e9b58506d1.jpg",
+"https://i.postimg.cc/gcqFHMQ7/Encanto-Bruno-Madrigal-Render.webp",
+"https://i.postimg.cc/dV3bvJ3M/f274390e0406504ddbb8582dd84dcd3606c04a97.jpg",
+"https://i.postimg.cc/fRP6R1SV/f27qy5.webp",
+"https://i.postimg.cc/qRVS8nL0/uwp2264143.webp"
+            ],
+            "wallpapers": [
+               "https://i.postimg.cc/PJhGkZpK/531837046e2c6e686ffe0a8bdae09146.jpg",
+"https://i.postimg.cc/j5yV9v5L/7870320.jpg",
+"https://i.postimg.cc/8PND88LD/7fa9071dc283d851700e38dc9d7d013b.jpg",
+"https://i.postimg.cc/4y1D4dpG/86431244bc5f9112f33639573b34d6e6.jpg",
+"https://i.postimg.cc/zfbYwqYw/918a17a81a358f5f445c3e782222f52d.jpg",
+"https://i.postimg.cc/MK5wqsYB/92a955ee6d101dcac969101171cac4fd.jpg",
+"https://i.postimg.cc/7ZLk6gBW/afriyel-asset.jpg",
+"https://i.postimg.cc/N03qpZQ3/b8d2e8b2044983cc03ea01afc5ca52de.jpg",
+"https://i.postimg.cc/bwFj2sWN/bf08c802d58ad9895e4f4f4610b0e9a4.jpg",
+"https://i.postimg.cc/9fqsR1yJ/Bruno-Madrigal-Wallpaper.jpg",
+"https://i.postimg.cc/dt4bzhqm/c3d14c00487828d545975f2281eba231.jpg",
+"https://i.postimg.cc/WbNRWGP1/d63719cc2659b4167c0de0e9b58506d1.jpg",
+"https://i.postimg.cc/gcqFHMQ7/Encanto-Bruno-Madrigal-Render.webp",
+"https://i.postimg.cc/dV3bvJ3M/f274390e0406504ddbb8582dd84dcd3606c04a97.jpg",
+"https://i.postimg.cc/fRP6R1SV/f27qy5.webp",
+"https://i.postimg.cc/qRVS8nL0/uwp2264143.webp"
+            ]
+          
+        }
+    ]
+}
